@@ -1,0 +1,11 @@
+C:\Kenneth\JOT\Demo_OSMO\Demo_OSMO\bin\Debug\Demo_OSMO.exe.config
+C:\Kenneth\JOT\Demo_OSMO\Demo_OSMO\bin\Debug\Demo_OSMO.exe
+C:\Kenneth\JOT\Demo_OSMO\Demo_OSMO\bin\Debug\Demo_OSMO.pdb
+C:\Kenneth\JOT\Demo_OSMO\Demo_OSMO\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+C:\Kenneth\JOT\Demo_OSMO\Demo_OSMO\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Kenneth\JOT\Demo_OSMO\Demo_OSMO\obj\Debug\Demo_OSMO.csprojResolveAssemblyReference.cache
+C:\Kenneth\JOT\Demo_OSMO\Demo_OSMO\obj\Debug\Demo_OSMO.Properties.Resources.resources
+C:\Kenneth\JOT\Demo_OSMO\Demo_OSMO\obj\Debug\Demo_OSMO.csproj.GenerateResource.Cache
+C:\Kenneth\JOT\Demo_OSMO\Demo_OSMO\obj\Debug\Demo_OSMO.exe
+C:\Kenneth\JOT\Demo_OSMO\Demo_OSMO\obj\Debug\Demo_OSMO.pdb
+C:\Kenneth\JOT\Demo_OSMO\Demo_OSMO\obj\Debug\Demo_OSMO.Main.resources
